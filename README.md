@@ -6,8 +6,7 @@ This app is inspired by Pinterest, designed to provide a smooth and engaging use
 ## Demo
 
 Here's a preview of the app in action:
-
-![App Demo](demo.gif)  
+<img src="demo.gif" alt="App Demo" width="600"/>
 
 
 
